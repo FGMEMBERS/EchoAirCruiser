@@ -1,0 +1,9 @@
+##This is the EchoAir Cruiser by D-ECHO, based on the b1900d by Syd Adams and using the lights from the CRJ700 by Ryan Miller##
+##licensed under GPL##
+The EchoAir Cruiser is the first 114-seating aircraft that is completely electric-powered, using hydrogen fuel cells and 8 combined propellers.
+V1:~100kts
+Vr:130kts
+V2: 140-150kts
+Vcruise: 300-340kts
+Vapp:140kts
+Vstall:~125kts
